@@ -1,0 +1,40 @@
+<resources>
+	<string name="hello">TextPlus</string>
+    <string name="app_name">TextPlus</string>
+    <string name="friend_list">List of Friends</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="login">Get In</string>
+    <string name="cancel">Cancel</string>
+    <string name="messaging">Messaging</string>
+    <string name="local_service_started">TextPlus Started</string>
+    <string name="local_service_stopped">TextPlus stopped</string>
+	<string name="local_service_connected">Connected_local</string>
+	<string name="OK">Done</string>
+	<string name="not_connected_to_service"> No Connection </string>
+	<string name="fill_both_username_and_password">Please  fill Password and Username</string>
+	<string name="make_sure_username_and_password_correct">Username Or Password are not correct </string>
+	<string name="user_offline">User Offline</string>
+	<string name="sign_up">Sign up</string>
+	<string name="exit_application">Log Out</string>
+	<string name="password_again">Password Again:</string>
+	<string name="email">Email</string>
+	<string name="signup_fill_all_fields">All Fields are necessary to fill up</string>
+	<string name="signup_type_same_password_in_password_fields"> Enter Same Password Please</string>
+	<string name="signup_failed">Sign up failed because of no connection to server</string>
+	<string name="signup_username_crashed">This username already exists , try other one</string>
+	<string name="signup_successfull">You are registered successfuly  </string>
+	<string name="username_and_password_length_short">Password/Username length must be 5 characters</string>
+	<string name="add_new_friend">Add Friend</string>
+	<string name="no_friend">No Friends , Select Add Friend From Menu</string>
+	<string name="add">Add</string>
+	<string name="request_sent">Friend Request Sent</string>
+	<string name="type_friend_username">Your friend username</string>
+	<string name="new_friend_request_exist">New friend request</string>
+	<string name="approve_selected_friends">Accept</string>
+	<string name="not_connected_to_network">No available Network</string>
+	<string name="message_cannot_be_sent">Message not sent</string>
+	<string name="empty"></string>
+	<string name="empty1"></string>
+
+</resources>

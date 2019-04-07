@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:2:1-87:12
+	package
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from E:\New folder\textplus\app\src\main\AndroidManifest.xml
+		INJECTED from E:\New folder\textplus\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\New folder\textplus\app\src\main\AndroidManifest.xml
+		INJECTED from E:\New folder\textplus\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\New folder\textplus\app\src\main\AndroidManifest.xml
+		INJECTED from E:\New folder\textplus\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\New folder\textplus\app\src\main\AndroidManifest.xml
+		INJECTED from E:\New folder\textplus\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\New folder\textplus\app\src\main\AndroidManifest.xml
+		INJECTED from E:\New folder\textplus\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:12:22-76
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:14:5-89
+	android:name
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:14:30-86
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:15:5-83
+	android:name
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:15:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:16:5-88
+	android:name
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:16:30-85
+application
+ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:18:5-85:19
+	android:label
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:21:9-41
+	android:allowBackup
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:20:9-45
+	android:theme
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:22:9-40
+activity#com.win7.example.textplus.ListOfFriends
+ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:23:9-32:20
+	android:screenOrientation
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:25:13-49
+	android:name
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:24:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.NORMAL
+ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:26:13-31:29
+action#android.intent.action.MAIN
+ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.NORMAL
+ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:29:17-30:28
+	android:name
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:29:27-72
+service#com.win7.example.textplus.service.MService
+ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:34:9-53
+	android:name
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:34:18-50
+activity#com.win7.example.textplus.MainLogin
+ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:36:9-45:20
+	android:screenOrientation
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:37:13-38
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:39:13-44:29
+category#android.intent.category.LAUNCHER
+ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:42:17-43:28
+	android:name
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:42:27-74
+activity#com.win7.example.textplus.WritingMessage
+ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:46:9-55:20
+	android:screenOrientation
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:48:13-49
+	android:name
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:47:13-43
+activity#com.win7.example.textplus.SignUp
+ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:56:9-64:20
+	android:screenOrientation
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:58:13-49
+	android:name
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:57:13-35
+activity#com.win7.example.textplus.AddFriend
+ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:65:9-73:20
+	android:screenOrientation
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:67:13-49
+	android:name
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:66:13-38
+activity#com.win7.example.textplus.WritingListFriends
+ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:74:9-82:20
+	android:screenOrientation
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:76:13-49
+	android:name
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:75:13-47
+activity#com.win7.example.textplus.MainActivity
+ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:83:9-84:20
+	android:name
+		ADDED from E:\New folder\textplus\app\src\main\AndroidManifest.xml:83:19-47

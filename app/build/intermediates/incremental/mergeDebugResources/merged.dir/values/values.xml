@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="aqua">#00FFFF</color>
+    <color name="black">#000000</color>
+    <color name="blue">#0000FF</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="gray">#808080</color>
+    <color name="green">#008000</color>
+    <color name="lime">#00FF00</color>
+    <color name="maroon">#800000</color>
+    <color name="navy">#000080</color>
+    <color name="olive">#808000</color>
+    <color name="purple">#800080</color>
+    <color name="red">#FF0000</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="teal">#008080</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="pad_10dp">10dp</dimen>
+    <dimen name="pad_15dp">15dp</dimen>
+    <dimen name="pad_180dp">180dp</dimen>
+    <dimen name="pad_20dp">20dp</dimen>
+    <dimen name="pad_25dp">25dp</dimen>
+    <dimen name="pad_30dp">30dp</dimen>
+    <dimen name="pad_40dp">40dp</dimen>
+    <dimen name="pad_45dp">45dp</dimen>
+    <dimen name="pad_50dp">50dp</dimen>
+    <dimen name="pad_5dp">5dp</dimen>
+    <dimen name="pad_chat_text">45dp</dimen>
+    <dimen name="pad_chat_text1">10dp</dimen>
+    <dimen name="txt_12sp">12sp</dimen>
+    <dimen name="txt_13sp">13sp</dimen>
+    <dimen name="txt_14sp">14sp</dimen>
+    <dimen name="txt_15sp">15sp</dimen>
+    <dimen name="txt_16sp">16sp</dimen>
+    <dimen name="txt_18sp">18sp</dimen>
+    <dimen name="txt_20sp">20sp</dimen>
+    <dimen name="txt_25sp">25sp</dimen>
+    <dimen name="txt_7sp">7sp</dimen>
+    <string name="OK">Done</string>
+    <string name="add">Add</string>
+    <string name="add_new_friend">Add Friend</string>
+    <string name="app_name">TextPlus</string>
+    <string name="approve_selected_friends">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="email">Email</string>
+    <string name="empty"/>
+    <string name="empty1"/>
+    <string name="exit_application">Log Out</string>
+    <string name="fill_both_username_and_password">Please  fill Password and Username</string>
+    <string name="friend_list">List of Friends</string>
+    <string name="hello">TextPlus</string>
+    <string name="local_service_connected">Connected_local</string>
+    <string name="local_service_started">TextPlus Started</string>
+    <string name="local_service_stopped">TextPlus stopped</string>
+    <string name="login">Get In</string>
+    <string name="make_sure_username_and_password_correct">Username Or Password are not correct </string>
+    <string name="message_cannot_be_sent">Message not sent</string>
+    <string name="messaging">Messaging</string>
+    <string name="new_friend_request_exist">New friend request</string>
+    <string name="no_friend">No Friends , Select Add Friend From Menu</string>
+    <string name="not_connected_to_network">No available Network</string>
+    <string name="not_connected_to_service"> No Connection </string>
+    <string name="password">Password:</string>
+    <string name="password_again">Password Again:</string>
+    <string name="request_sent">Friend Request Sent</string>
+    <string name="sign_up">Sign up</string>
+    <string name="signup_failed">Sign up failed because of no connection to server</string>
+    <string name="signup_fill_all_fields">All Fields are necessary to fill up</string>
+    <string name="signup_successfull">You are registered successfuly  </string>
+    <string name="signup_type_same_password_in_password_fields"> Enter Same Password Please</string>
+    <string name="signup_username_crashed">This username already exists , try other one</string>
+    <string name="type_friend_username">Your friend username</string>
+    <string name="user_offline">User Offline</string>
+    <string name="username">Username:</string>
+    <string name="username_and_password_length_short">Password/Username length must be 5 characters</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="login_editText_password" parent="android:Widget.EditText">
+        <item name="android:background">@drawable/usernamee</item>
+        <item name="android:drawablePadding">10dp</item>
+        <item name="android:ems">10</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:inputType">textEmailAddress</item>
+        <item name="android:paddingBottom">20dp</item>
+    </style>
+</resources>
